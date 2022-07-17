@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705758464507",
+    "project_id": "courseallocation-9a2c5",
+    "storage_bucket": "courseallocation-9a2c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705758464507:android:08b7fb0a51a214e1e1a35e",
+        "android_client_info": {
+          "package_name": "com.example.course_allocation_phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705758464507-dr184tvhmjie604j7pg43kgbs57015sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZMJIvKAfUr3jm3wsplCdVh4WjmQ1Jhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705758464507-dr184tvhmjie604j7pg43kgbs57015sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
